@@ -8,7 +8,7 @@
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
-<a href="https://ShivamAgarwal-code.github.io/Portfolio-Shivam-Agarwal/" target="_blank">Visit Now🚀</a>
+<a href="https://shivamagarwal-code.github.io/Portfolio-Shivam-Agarwal/" target="_blank">Visit Now🚀</a>
 </h2> 
 
 ## 📌 Tech Stack:
@@ -21,7 +21,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌 Sneak Peek of Main Page:
 ![mockup720](https://github.com/ShivamAgarwal-code/Portfolio-Shivam-Agarwal/blob/008470738d84db3309b892d936998fe371f8928f/assests/images/ss.jpeg)
-![skillsmockup](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/577c41033c42fcd3568e2ca266dc4511d87f630b/assests/images/Screenshot%20(21).png)
+![skillsmockup](https://github.com/ShivamAgarwal-code/Portfolio-Shivam-Agarwal/blob/1b50c9be8fbb5ae7c5678aa0292a3e59016f4675/assests/images/Screenshot%20(22).jpeg)
 
 
 <h2>📬 Contact</h2>
@@ -37,7 +37,7 @@ If you want to contact me, you can reach me through below handles.
 
 </div>
 
-© 2021 Shivam Agarwal
+© 2022 Shivam Agarwal
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
